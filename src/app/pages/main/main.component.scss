@@ -1,0 +1,50 @@
+.content{
+	/*background-image: url('/assets/images/Main Page0.png');
+    background-size: cover;
+    background-position: bottom;*/
+    width: 100%;
+    height: 100%;
+    position: relative;
+	.bg{
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	#unit1{
+		width: 18%;
+	    position: absolute;
+	    bottom: 25%;
+    	left: 44%;
+	}
+	#unit2{
+		width: 18%;
+	    position: absolute;
+	    bottom: 47%;
+	    left: 19%;
+	}
+	#unit3{
+		width: 18%;
+	    position: absolute;
+	    bottom: 43%;
+    	right: 14%;
+	}
+	#unit4{
+		width: 18%;
+	    position: absolute;
+	    left: 8%;
+    	bottom: 25%;
+	}
+	#unit5{
+		width: 18%;
+	    position: absolute;
+	    right: 12%;
+    	bottom: 5%;
+	}
+	#unit6{
+		width: 18%;
+	    position: absolute;
+	    left: 22%;
+    	bottom: 0%;
+	}
+}

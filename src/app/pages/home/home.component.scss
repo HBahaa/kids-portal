@@ -1,0 +1,71 @@
+.content{
+	/*background-image: url('/assets/images/Nahj Units.png');
+	background-size: cover;*/
+	width: 100%;
+	height: 100%;
+	.bg{
+		width: 100%;
+		height: 100%;
+	}
+
+	#unit1{
+		position: fixed;
+	    width: 10%;
+	    left: 9%;
+	    top: 45%;
+	}
+	#unit2{
+		position: fixed;
+	    width: 10%;
+	    left: 14%;
+    	top: 15%;
+	}
+	#unit3{
+		position: fixed;
+	    width: 10%;
+	    left: 30%;
+    	top: 14%;
+	}
+	#unit4{
+		position: fixed;
+	    top: 14%;
+	    right: 12%;
+	    width: 10%;
+	}
+	#unit5{
+		position: fixed;
+	    width: 10%;
+	    top: 37%;
+    	left: 24%;
+	}
+	#unit6{
+		position: fixed;
+	    width: 10%;
+	    right: 30%;
+    	top: 14%;
+	}
+	#unit7{
+		position: fixed;
+	    width: 10%;
+	    top: 37%;
+    	right: 24%;
+	}
+	#unit8{
+		position: fixed;
+	    width: 10%;
+	    top: 61%;
+    	right: 21%;
+	}
+	#unit9{
+		position: fixed;
+	    width: 10%;
+	    top: 62%;
+    	left: 25%;
+	}
+	#unit10{
+		position: fixed;
+	    width: 10%;
+	    top: 44%;
+    	right: 8%;
+	}
+}

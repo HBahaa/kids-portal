@@ -1,0 +1,30 @@
+.content{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    
+	.bg{
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+	.data{
+		position: relative;
+		z-index: 11;
+		top: -79%;
+		height: 0;
+		a{
+			img{
+				width: 80%;
+				min-height:  14.4em;
+				max-height:  17em;
+			}
+		}
+	}
+	a.back{
+		position: fixed;
+		left: 5%;
+		bottom: 5%;
+		color: #f7dc9e
+	}
+}

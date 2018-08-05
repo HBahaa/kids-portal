@@ -1,0 +1,23 @@
+.content{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    
+	.bg{
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+	.data{
+		position: relative;
+		z-index: 11;
+		top: -79%;
+		height: 0;
+	}
+	a.back{
+		position: fixed;
+		left: 5%;
+		bottom: 5%;
+		color: #f7dc9e
+	}
+}
