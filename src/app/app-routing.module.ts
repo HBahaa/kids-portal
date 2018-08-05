@@ -22,7 +22,7 @@ const routes: Routes = [
 	{path:'quran', component: QuranComponent},
 	{path:'sunnah', component: SunnahComponent},
 	{path:'electronics', component: ElectronicsComponent},
-	{path:'game', component: GameComponent},
+	{path:'game/:type', component: GameComponent},
 	{path:'song', component: SongComponent}
 
 ];
